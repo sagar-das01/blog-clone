@@ -1,1 +1,1 @@
-## This is a simple blog-clone projectq
+## This is a simple blog-clone project
